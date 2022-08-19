@@ -1,0 +1,24 @@
+body{
+  background: url(https://img.freepik.com/free-vector/blue-cloudy-daylight-background-weather-design_33099-512.jpg?w=996&t=st=1660809650~exp=1660810250~hmac=e7ddfe46ce643799866120bab6734efc6ae1d9ec2b04b8ae6d6c58cae6ddc460);
+  height: 100vh;
+  background-repeat: none;
+  background-size: cover;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.weather-box{
+  border: 1px solid white;
+  border-radius: 30px;
+  background-color:lavenderblush;
+  padding: 20px;
+  margin-bottom: 20px;
+  width:350px;
+  
+}
